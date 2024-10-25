@@ -1,0 +1,4 @@
+wget https://raw.githubusercontent.com/Vinnypohh/RB_test/refs/heads/main/script.sh
+chmod +x script.sh
+sh script.sh 
+rm script.sh
